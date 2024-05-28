@@ -1,0 +1,27 @@
+# Ollama Model Files
+*.bin
+*.ggml
+
+# CrewAI Configuration
+.env
+
+# Virtual Environments
+venv/
+env/
+.venv
+
+# Python
+__pycache__/
+*.pyc
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor & IDE Files
+.idea/
+.vscode/
+*.swp
+
+# Miscellaneous
+*.log
